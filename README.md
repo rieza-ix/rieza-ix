@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rieza Marie J. Banquillo</h1>
+<h3 align="center"> A passionate front-end developer from Atique, Philippines </h3>
 
 <!--
 **rieza-ix/rieza-ix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> <img width="50%" display="block" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWYzNWQ4MWNiNDI1OTFlNzcwMjI3ZGNhZGM2YWVjYTFkOGEwYTdjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif"></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rieza-ix&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blueviolet" alt="rieza-ix" /> </p>
