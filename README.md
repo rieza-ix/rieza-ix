@@ -14,10 +14,10 @@
 
 <h3>📩 Connect with me through :
     <a href="https://discord.com/api/oauth2/authorize?client_id=1082182018516930560&permissions=3072&scope=bot" target="_blank">
-        <img width="4%" align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg">
+        <img width="3%" align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg">
     </a>
     <a href="https://www.linkedin.com/in/riezamarie-banquillo/" target="_blank">
-        <img width="4%" align="center" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg">
+        <img width="3%" align="center" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg">
     </a>
 </h3>
 <h3>📫 E-mail me at
@@ -44,32 +44,32 @@
 
 #
 
-**<h2 >💻 Languages</h2>**
+<h2>💻 Languages</h2>
 <p align="left">
-    <img width="4.1%" align="center" src="https://www.svgrepo.com/show/373669/html.svg">
-    <img width="4%" align="center" src="https://www.svgrepo.com/show/373535/css.svg">
+    <img width="3.1%" align="center" src="https://www.svgrepo.com/show/373669/html.svg">
+    <img width="3%" align="center" src="https://www.svgrepo.com/show/373535/css.svg">
     <a href="tailwindcss.com" target="_blank">
-        <img width="4%" align="center" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
+        <img width="3%" align="center" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
     </a>
     <a href="getbootstrap.com" target="_blank">
-        <img width="3.6%" align="center" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
+        <img width="2.6%" align="center" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
     </a>
 </p>
 
 #
 
-**<h2>💻 Tools</h2>**
+<h2>💻 Tools</h2>
 
 <p align="left">
-    <img width="4%" align="center" src="https://www.svgrepo.com/show/452129/vs-code.svg">
+    <img width="3%" align="center" src="https://www.svgrepo.com/show/452129/vs-code.svg">
     <a href="https://github.com/rieza-ix" target="_blank">
-        <img width="4%" align="center" src="https://www.svgrepo.com/show/512317/github-142.svg">
+        <img width="3%" align="center" src="https://www.svgrepo.com/show/512317/github-142.svg">
     </a>
 </p>
 
 #
 
-**<h2>📈 Statistics</h2>**
+<h2>📈 Statistics</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rieza-ix&show_icons=true&locale=en" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rieza-ix&" />
