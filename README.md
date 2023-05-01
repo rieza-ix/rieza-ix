@@ -14,13 +14,27 @@
 
 <h3>📩 Connect with me through :
     <a href="https://discord.com/api/oauth2/authorize?client_id=1082182018516930560&permissions=3072&scope=bot" target="_blank">
-        <img width="5%" src="https://www.svgrepo.com/show/331368/discord-v2.svg">
+        <img width="4%" align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg">
     </a>
     <a href="https://www.linkedin.com/in/riezamarie-banquillo/" target="_blank">
-        <img width="5%" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg">
+        <img width="4%" align="center" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg">
     </a>
 </h3>
-<h3>📫 E-mail me at rizmarezlo@gmail.com</h3>
+<h3>📫 E-mail me at
+    <a>rizmarezlo@gmail.com</a>
+</h3>
+
+#
+
+<h3>🌱 I'm currently learning : 
+    <a href="react.dev" target="_blank">
+        <img width="4%" align="center" src="https://www.svgrepo.com/show/452092/react.svg">
+    </a>
+    <a href="https://nextjs.org/" target="_blank">
+        <img width="4%" align="center" src="https://www.svgrepo.com/show/342062/next-js.svg">
+    </a>
+    <img width="3.5%" align="center" src="https://www.svgrepo.com/show/349419/javascript.svg">
+</h3>
 
 #
 
@@ -30,48 +44,32 @@
 
 #
 
-<h3>🌱 I'm currently learning : 
-    <a href="react.dev" target="_blank">
-    <img width="5%" src="https://www.svgrepo.com/show/452092/react.svg">
+**<h2 >💻 Languages</h2>**
+<p align="left">
+    <img width="4.1%" align="center" src="https://www.svgrepo.com/show/373669/html.svg">
+    <img width="4%" align="center" src="https://www.svgrepo.com/show/373535/css.svg">
+    <a href="tailwindcss.com" target="_blank">
+        <img width="4%" align="center" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
     </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img width="5%" src="https://www.svgrepo.com/show/342062/next-js.svg">
-  </a>
-  <img width="4.5%" src="https://www.svgrepo.com/show/349419/javascript.svg">
-</h3>
+    <a href="getbootstrap.com" target="_blank">
+        <img width="3.6%" align="center" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
+    </a>
+</p>
 
 #
 
-## **💻 Languages**
+**<h2>💻 Tools</h2>**
 
-<img width="5%" src="https://www.svgrepo.com/show/373669/html.svg">
-<img width="5%" src="https://www.svgrepo.com/show/373535/css.svg">
-<a href="tailwindcss.com" target="_blank">
-    <img width="5%" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
-</a>
-<a href="getbootstrap.com" target="_blank">
-    <img width="5%" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
-</a>
+<p align="left">
+    <img width="4%" align="center" src="https://www.svgrepo.com/show/452129/vs-code.svg">
+    <a href="https://github.com/rieza-ix" target="_blank">
+        <img width="4%" align="center" src="https://www.svgrepo.com/show/512317/github-142.svg">
+    </a>
+</p>
 
 #
 
-## **💻 Tools**
+**<h2>📈 Statistics</h2>**
 
-<img width="5%" src="https://www.svgrepo.com/show/452129/vs-code.svg">
-<a href="https://github.com/rieza-ix" target="_blank">
-    <img width="5%" src="https://www.svgrepo.com/show/512317/github-142.svg">
-</a>
-
-#
-
-## **📈 Statistics**
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=rieza-ix&show_icons=true&locale=en" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rieza-ix&" />
-
-<style>
-    img {
-        display: inline-block;
-        vertical-align: middle;
-    }
-</style>
+<img src="https://github-readme-stats.vercel.app/api?username=rieza-ix&show_icons=true&locale=en" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rieza-ix&" />
