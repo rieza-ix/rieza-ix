@@ -42,7 +42,7 @@
     <a href="https://github.com/Stacktrek-Training/stack-sched" target="_blank">StackSched : Scheduling System for Part-timers</a>
 </h3>
 
-#
+<hr style="border:0.px solid gray">
 
 <h2>💻 Languages</h2>
 <p align="left">
@@ -56,7 +56,7 @@
     </a>
 </p>
 
-#
+<hr style="border:0.px solid gray">
 
 <h2>💻 Tools</h2>
 
@@ -67,7 +67,7 @@
     </a>
 </p>
 
-#
+<hr style="border:0.px solid gray">
 
 <h2>📈 Statistics</h2>
 
