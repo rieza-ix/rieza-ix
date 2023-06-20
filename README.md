@@ -26,50 +26,51 @@
 
 #
 
-<h3>🌱 I'm currently learning : 
-    <a href="react.dev" target="_blank">
-        <img width="4%" align="center" src="https://www.svgrepo.com/show/452092/react.svg">
-    </a>
-    <a href="https://nextjs.org/" target="_blank">
-        <img width="4%" align="center" src="https://www.svgrepo.com/show/342062/next-js.svg">
-    </a>
-    <img width="3.5%" align="center" src="https://www.svgrepo.com/show/349419/javascript.svg">
-</h3>
+**<h2>📁 Projects</h2>**
+<p align="left">
+    <div>
+        <a href="https://github.com/Stacktrek-Training/stack-sched" target="_blank"><h3>StackSched : Scheduling System for Part-timers</h3></a>
+        <img width="100%" align="center" src="./assets/screenshot/Scheduling-System.png">
+    </div>
+    <div>
+        <a margin-top="50%" href="https://github.com/rieza-ix/library-management-system" target="_blank"><h3>ANS LMS: ANS Library Management System</h3></a>
+        <img width="100%" align="center" src="./assets/screenshot/Library-Management-System.png">
+    </div>
+</p>
 
 #
 
-<h3>👩🏻‍💻 I’m currently working on :
-    <a href="https://github.com/Stacktrek-Training/stack-sched" target="_blank">StackSched : Scheduling System for Part-timers</a>
-</h3>
-
-#
-
-<h2>💻 Languages</h2>
+**<h2>💻 Languages</h2>**
 <p align="left">
     <img width="4.1%" align="center" src="https://www.svgrepo.com/show/373669/html.svg">
     <img width="4%" align="center" src="https://www.svgrepo.com/show/373535/css.svg">
     <a href="tailwindcss.com" target="_blank">
         <img width="4%" align="center" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
     </a>
-    <a href="getbootstrap.com" target="_blank">
-        <img width="3.6%" align="center" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
+    <a href="react.dev" target="_blank">
+        <img width="4%" align="center" src="https://www.svgrepo.com/show/452092/react.svg">
     </a>
+    <a href="https://nextjs.org/" target="_blank">
+        <img width="4%" align="center" src="https://www.svgrepo.com/show/342062/next-js.svg">
+    </a>
+    <img width="3%" align="center" src="https://www.svgrepo.com/show/349419/javascript.svg">
 </p>
 
 #
 
-<h2>💻 Tools</h2>
+**<h2>💻 Tools</h2>**
 
 <p align="left">
     <img width="4%" align="center" src="https://www.svgrepo.com/show/452129/vs-code.svg">
     <a href="https://github.com/rieza-ix" target="_blank">
         <img width="4%" align="center" src="https://www.svgrepo.com/show/512317/github-142.svg">
     </a>
+    <img width="4%" align="center" src="https://www.svgrepo.com/show/353733/figma.svg">
 </p>
 
 #
 
-<h2>📈 Statistics</h2>
+**<h2>📈 Statistics</h2>**
 
 <img src="https://github-readme-stats.vercel.app/api?username=rieza-ix&show_icons=true&locale=en" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rieza-ix&" />
