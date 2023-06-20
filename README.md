@@ -30,11 +30,11 @@
 <p align="left">
     <div>
         <a href="https://github.com/Stacktrek-Training/stack-sched" target="_blank"><h3>StackSched : Scheduling System for Part-timers</h3></a>
-        <img width="70%" align="center" src="./assets/screenshot/Scheduling-System.PNG">
+        <img width="60%" align="center" src="./assets/screenshot/Scheduling-System.PNG">
     </div>
     <div>
         <a margin-top="50%" href="https://github.com/rieza-ix/library-management-system" target="_blank"><h3>ANS LMS: ANS Library Management System</h3></a>
-        <img width="70%" align="center" src="./assets/screenshot/Library-Management-System.png">
+        <img width="60%" align="center" src="./assets/screenshot/Library-Management-System.png">
     </div>
 </p>
 
