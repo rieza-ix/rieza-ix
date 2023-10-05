@@ -4,23 +4,16 @@
     </h1>
 </p>
 
-<img width="100%" display="block" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWYzNWQ4MWNiNDI1OTFlNzcwMjI3ZGNhZGM2YWVjYTFkOGEwYTdjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif">
+<p align="center">
+    <img width="100%" display="block" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWYzNWQ4MWNiNDI1OTFlNzcwMjI3ZGNhZGM2YWVjYTFkOGEwYTdjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif">
+</p>
 
 <h2 align="center">Aspiring Software Developer</h2>
 
-**<h2>📩 Reach me through ⬇</h2>**
-
-<p>
-    <h4>
-        <img width="2%" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg">
-        <a href="https://www.linkedin.com/in/riezamarie-banquillo/" target="_blank">: riezamarie-banquillo</a>
-    </h4>
-</p>
-<p>
-    <h4>
-        <img width="2%" src="https://www.svgrepo.com/show/353812/google-gmail.svg">
-        <a href="mailto:rizmarezlo@gmail.com" target="_blank">: rizmarezlo@gmail.com</a>
-    </h4>
+**<h2>📩 Contacts</h2>**
+<p align="left">
+    <a style="color:white" href="https://www.linkedin.com/in/riezamarie-banquillo/" target="_blank"><h3>LinkedIn : riezamarie-banquillo</h3></a>
+    <a style="color:white" href="mailto:rizmarezlo@gmail.com" target="_blank"><h3>E-Mail : rizmarezlo@gmail.com</h3></a>
 </p>
 
 #
@@ -28,18 +21,19 @@
 **<h2>📁 Projects</h2>**
 
 <p align="left">
-    <div style="display: flex; align-items: center; justify-content: start;">
-        <a href="https://github.com/Stacktrek-Training/stack-sched" target="_blank"><h3>Scheduling System for Part-time Trainers</h3></a>
-        <img style="margin: 2.6% 0 0 2%" src="https://badgen.net/badge/status/ongoing/yellow" />
-    </div>
-    <div style="display: flex; align-items: center; justify-content: start;">
-        <a margin-top="50%" href="https://github.com/rieza-ix/library-management-system" target="_blank"><h3>ANS Library Management System</h3></a>
-        <img style="margin: 2.6% 0 0 2%" src="https://badgen.net/badge/status/finished/green" />
-    </div>
-    <div style="display: flex; align-items: center; justify-content: start;">
-        <a margin-top="50%" href="https://github.com/rieza-ix/java-appointment-system" target="_blank"><h3>Appointment System</h3></a>
-        <img style="margin: 2.6% 0 0 2%" src="https://badgen.net/badge/status/finished/green" />
-    </div>
+    <h3>Scheduling System for Part-time Trainers
+        <a href="https://github.com/Stacktrek-Training/stack-sched" target="_blank">
+            <img style="margin: 2.6% 0 0 2%" src="https://badgen.net/badge/status/ongoing/yellow" />
+        </a>
+    </h3>
+    <h3>ANS Library Management System
+        <a margin-top="50%" href="https://github.com/rieza-ix/library-management-system" target="_blank">
+        <img style="margin: 2.6% 0 0 2%" src="https://badgen.net/badge/status/finished/green" /></a>
+    </h3>
+    <h3>Appointment System
+        <a margin-top="50%" href="https://github.com/rieza-ix/java-appointment-system" target="_blank">
+        <img style="margin: 2.6% 0 0 2%" src="https://badgen.net/badge/status/finished/green" /></a>
+    </h3>
 </p>
 
 #
@@ -78,8 +72,11 @@
 
 **<h2>📈 Statistics</h2>**
 
-<div style="display: flex; align-items: center; justify-content: start;">
-<img style = "width: 80%" src="https://github-readme-stats.vercel.app/api?username=rieza-ix&show_icons=true&locale=en&theme=dark" />
-<img style = "width: 61%; margin: 0 0 0 2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rieza-ix&layout=compact&theme=dark" />
-</div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rieza-ix" />
+<p align="center">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rieza-ix&show_icons=true&locale=en&theme=dark" />
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rieza-ix&layout=compact&theme=dark" />
+</p>
+
+<p align="center">
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=rieza-ix" />
+</p>
