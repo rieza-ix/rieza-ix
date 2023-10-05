@@ -12,8 +12,8 @@
 
 **<h2>📩 Contacts</h2>**
 <p align="left">
-    <a style="color:white" href="https://www.linkedin.com/in/riezamarie-banquillo/" target="_blank"><h3>LinkedIn : riezamarie-banquillo</h3></a>
-    <a style="color:white" href="mailto:rizmarezlo@gmail.com" target="_blank"><h3>E-Mail : rizmarezlo@gmail.com</h3></a>
+    <a href="https://www.linkedin.com/in/riezamarie-banquillo/" target="_blank"><h3>LinkedIn : riezamarie-banquillo</h3></a>
+    <a href="mailto:rizmarezlo@gmail.com" target="_blank"><h3>E-Mail : rizmarezlo@gmail.com</h3></a>
 </p>
 
 #
@@ -23,16 +23,16 @@
 <p align="left">
     <h3>Scheduling System for Part-time Trainers
         <a href="https://github.com/Stacktrek-Training/stack-sched" target="_blank">
-            <img style="margin: 2.6% 0 0 2%" src="https://badgen.net/badge/status/ongoing/yellow" />
+            <img style="margin: 2.6% 0 0 1%; vertical-align:sub" src="https://badgen.net/badge/status/ongoing/yellow" />
         </a>
     </h3>
     <h3>ANS Library Management System
         <a margin-top="50%" href="https://github.com/rieza-ix/library-management-system" target="_blank">
-        <img style="margin: 2.6% 0 0 2%" src="https://badgen.net/badge/status/finished/green" /></a>
+        <img style="margin: 2.6% 0 0 1%; vertical-align:sub" src="https://badgen.net/badge/status/finished/green" /></a>
     </h3>
     <h3>Appointment System
         <a margin-top="50%" href="https://github.com/rieza-ix/java-appointment-system" target="_blank">
-        <img style="margin: 2.6% 0 0 2%" src="https://badgen.net/badge/status/finished/green" /></a>
+        <img style="margin: 2.6% 0 0 1%; vertical-align:sub" src="https://badgen.net/badge/status/finished/green" /></a>
     </h3>
 </p>
 
@@ -42,7 +42,7 @@
 
 <p align="left">
     <img width="4.4%" align="center" src="https://www.svgrepo.com/show/303388/java-4-logo.svg">
-    <img width="8%" align="center" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
+    <img width="7%" align="center" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
     <img width="4.3%" align="center" src="https://www.svgrepo.com/show/373669/html.svg">
     <img width="4.2%" align="center" src="https://www.svgrepo.com/show/373535/css.svg">
     <img width="4.6%" align="center" src="https://www.svgrepo.com/show/354180/php.svg">
@@ -60,15 +60,12 @@
     <img width="4%" align="center" src="https://www.svgrepo.com/show/452129/vs-code.svg">
     <img width="3.4%" align="center" src="https://seeklogo.com/images/N/netbeans-logo-335EBA952E-seeklogo.com.png">
     <img width="4%" align="center" src="https://www.svgrepo.com/show/452210/git.svg">
-    <img width="4.2%" align="center" src="https://www.svgrepo.com/show/512317/github-142.svg">
-    <img width="4.2%" align="center" src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png">
-    <img width="4.2%" align="center" src="https://www.svgrepo.com/show/353733/figma.svg">
+    <img width="4%" align="center" src="https://www.svgrepo.com/show/512317/github-142.svg">
+    <img width="4%" align="center" src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png">
+    <img width="4%" align="center" src="https://www.svgrepo.com/show/353733/figma.svg">
 </p>
 
 #
-
-**<h2>📊 Analytics</h2>**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rieza-ix&layout=compact&theme=dark" />
 
 **<h2>📈 Statistics</h2>**
 
