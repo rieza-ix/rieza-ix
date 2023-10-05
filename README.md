@@ -11,16 +11,16 @@
 **<h2>📩 Reach me through ⬇</h2>**
 
 <p>
-    <h3>
+    <h4>
         <img width="2%" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg">
         <a href="https://www.linkedin.com/in/riezamarie-banquillo/" target="_blank">: riezamarie-banquillo</a>
-    </h3>
+    </h4>
 </p>
 <p>
-    <h3>
+    <h4>
         <img width="2%" src="https://www.svgrepo.com/show/353812/google-gmail.svg">
         <a href="mailto:rizmarezlo@gmail.com" target="_blank">: rizmarezlo@gmail.com</a>
-    </h3>
+    </h4>
 </p>
 
 #
