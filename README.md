@@ -4,11 +4,11 @@
     </h1>
 </p>
 
-<h2 align="center">Aspiring Software Developer</h2>
+<h2 align="center">Aspiring Software Developer
 
 <p align="center">
     <img display="block" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWYzNWQ4MWNiNDI1OTFlNzcwMjI3ZGNhZGM2YWVjYTFkOGEwYTdjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif">
-</p>
+</p></h2>
 
 **<h2>📩 Reach me through ⬇</h2>**
 
