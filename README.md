@@ -4,24 +4,24 @@
     </h1>
 </p>
 
-<h2 align="center">Aspiring Software Developer
+<img display="block" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWYzNWQ4MWNiNDI1OTFlNzcwMjI3ZGNhZGM2YWVjYTFkOGEwYTdjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-<p align="center">
-    <img display="block" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWYzNWQ4MWNiNDI1OTFlNzcwMjI3ZGNhZGM2YWVjYTFkOGEwYTdjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif">
-</p>
+<h2 align="center">Aspiring Software Developer</h2>
 
 **<h2>📩 Reach me through ⬇</h2>**
 
-<div style="display: flex; align-items: center; justify-content: start;">
-    <img style = "width: 5%; margin: 2% 2% 0 0" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg">
+<p>
     <h3>
-    <a href="https://www.linkedin.com/in/riezamarie-banquillo/" target="_blank">: riezamarie-banquillo</a></h3>
-</div>
-<div style="display: flex; align-items: center; justify-content: start;">
-    <img style = "width: 5%; margin: 2% 2% 0 0" src="https://www.svgrepo.com/show/353812/google-gmail.svg">
+        <img width="4%" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg">
+        <a href="https://www.linkedin.com/in/riezamarie-banquillo/" target="_blank">: riezamarie-banquillo</a>
+    </h3>
+</p>
+<p>
     <h3>
-    <a href="mailto:rizmarezlo@gmail.com" target="_blank">: rizmarezlo@gmail.com</a></h3>
-</div>
+        <img width="4%" src="https://www.svgrepo.com/show/353812/google-gmail.svg">
+        <a href="mailto:rizmarezlo@gmail.com" target="_blank">: rizmarezlo@gmail.com</a>
+    </h3>
+</p>
 
 #
 
