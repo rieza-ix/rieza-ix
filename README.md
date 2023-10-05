@@ -1,6 +1,6 @@
 <p>
     <h1 align="center">Hi 👋, I'm Rieza Marie J. Banquillo
-    <img src="https://komarev.com/ghpvc/?username=rieza-ix&label=profile_visits&color=0e75b6&style=for-the-badge&color=blueviolet" alt="rieza-ix" />
+    <img width="18%" src="https://komarev.com/ghpvc/?username=rieza-ix&label=profile_visits&color=0e75b6&style=for-the-badge&color=blueviolet" alt="rieza-ix" />
     </h1>
 </p>
 
@@ -14,12 +14,12 @@
 
 <p align="center">
     <h3>
-        <img style="width: 3%; vertical-align:sub" src="https://freelogopng.com/images/all_img/1656994981linkedin-icon-png.png">
+        <img width="3%" style="vertical-align:sub" src="https://freelogopng.com/images/all_img/1656994981linkedin-icon-png.png">
          : 
         <a style="vertical-align:top" href="https://www.linkedin.com/in/riezamarie-banquillo/" target="_blank">riezamarie-banquillo</a>
     </h3>
     <h3>
-        <img style="width: 3%; vertical-align:sub" src="https://www.svgrepo.com/show/353812/google-gmail.svg">
+        <img width="3%" style="vertical-align:sub" src="https://www.svgrepo.com/show/353812/google-gmail.svg">
          : 
         <a style="vertical-align:top" href="mailto:rizmarezlo@gmail.com" target="_blank">rizmarezlo@gmail.com</a>
     </h3>
