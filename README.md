@@ -1,5 +1,5 @@
 <p align="center">
-    <h1>Hi 👋, I'm Rieza Marie J. Banquillo
+    <h1 align="center">Hi 👋, I'm Rieza Marie J. Banquillo
     <img src="https://komarev.com/ghpvc/?username=rieza-ix&label=visits&color=0e75b6&style=for-the-badge&color=blueviolet" alt="rieza-ix" />
     </h1>
 </p>
