@@ -10,14 +10,14 @@
 
 <p align="center">
     <h3>
-        <img style = "width: 5%; vertical-align:sub" src="https://freelogopng.com/images/all_img/1656994981linkedin-icon-png.png">
+        <img style="width: 4%; vertical-align:sub" src="https://freelogopng.com/images/all_img/1656994981linkedin-icon-png.png">
          : 
-        <a href="https://www.linkedin.com/in/riezamarie-banquillo/" target="_blank">riezamarie-banquillo</a>
+        <a style="vertical-align:top" href="https://www.linkedin.com/in/riezamarie-banquillo/" target="_blank">riezamarie-banquillo</a>
     </h3>
     <h3>
-        <img style = "width: 5%; vertical-align:sub" src="https://www.svgrepo.com/show/353812/google-gmail.svg">
+        <img style="width: 4%; vertical-align:sub" src="https://www.svgrepo.com/show/353812/google-gmail.svg">
          : 
-        <a href="mailto:rizmarezlo@gmail.com" target="_blank">rizmarezlo@gmail.com</a>
+        <a style="vertical-align:top" href="mailto:rizmarezlo@gmail.com" target="_blank">rizmarezlo@gmail.com</a>
     </h3>
 </p>
 
