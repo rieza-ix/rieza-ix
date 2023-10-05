@@ -1,7 +1,8 @@
-<div style="display: flex; align-items: center; justify-content: center;">
-    <h1>Hi 👋, I'm Rieza Marie J. Banquillo</h1>
-    <img style="align-items: end;" src="https://komarev.com/ghpvc/?username=rieza-ix&label=visits&color=0e75b6&style=for-the-badge&color=blueviolet" alt="rieza-ix" style="align-self: center;" />
-</div>
+<p align="center">
+    <h1>Hi 👋, I'm Rieza Marie J. Banquillo
+    <img src="https://komarev.com/ghpvc/?username=rieza-ix&label=visits&color=0e75b6&style=for-the-badge&color=blueviolet" alt="rieza-ix" />
+    </h1>
+</p>
 
 <p align="center">
     <img width="60%" display="block" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWYzNWQ4MWNiNDI1OTFlNzcwMjI3ZGNhZGM2YWVjYTFkOGEwYTdjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif">
