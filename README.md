@@ -10,12 +10,12 @@
 
 <p align="center">
     <h3>
-        <img style="width: 3.6%; vertical-align:sub" src="https://freelogopng.com/images/all_img/1656994981linkedin-icon-png.png">
+        <img style="width: 3.4%; vertical-align:sub" src="https://freelogopng.com/images/all_img/1656994981linkedin-icon-png.png">
          : 
         <a style="vertical-align:top" href="https://www.linkedin.com/in/riezamarie-banquillo/" target="_blank">riezamarie-banquillo</a>
     </h3>
     <h3>
-        <img style="width: 3.6%; vertical-align:sub" src="https://www.svgrepo.com/show/353812/google-gmail.svg">
+        <img style="width: 3.4%; vertical-align:sub" src="https://www.svgrepo.com/show/353812/google-gmail.svg">
          : 
         <a style="vertical-align:top" href="mailto:rizmarezlo@gmail.com" target="_blank">rizmarezlo@gmail.com</a>
     </h3>
@@ -54,7 +54,7 @@
     <img width="4.4%" align="center" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
     <img width="4.4%" align="center" src="https://www.svgrepo.com/show/452092/react.svg">
     <img width="4.4%" align="center" src="https://www.svgrepo.com/show/342062/next-js.svg">
-    <img width="3.4%" align="center" src="https://www.svgrepo.com/show/349419/javascript.svg">
+    <img width="3.6%" align="center" src="https://www.svgrepo.com/show/349419/javascript.svg">
 </p>
 
 #
