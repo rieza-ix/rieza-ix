@@ -10,12 +10,12 @@
 
 <p align="center">
     <h3>
-        <img style="width: 4%; vertical-align:sub" src="https://freelogopng.com/images/all_img/1656994981linkedin-icon-png.png">
+        <img style="width: 3%; vertical-align:sub" src="https://freelogopng.com/images/all_img/1656994981linkedin-icon-png.png">
          : 
         <a style="vertical-align:top" href="https://www.linkedin.com/in/riezamarie-banquillo/" target="_blank">riezamarie-banquillo</a>
     </h3>
     <h3>
-        <img style="width: 4%; vertical-align:sub" src="https://www.svgrepo.com/show/353812/google-gmail.svg">
+        <img style="width: 3%; vertical-align:sub" src="https://www.svgrepo.com/show/353812/google-gmail.svg">
          : 
         <a style="vertical-align:top" href="mailto:rizmarezlo@gmail.com" target="_blank">rizmarezlo@gmail.com</a>
     </h3>
@@ -46,7 +46,7 @@
 **<h2>📱 Languages / 💻Frameworks</h2>**
 
 <p align="left">
-    <img width="4.4%" align="center" src="https://www.svgrepo.com/show/303388/java-4-logo.svg">
+    <img width="4.8%" align="center" src="https://www.svgrepo.com/show/303388/java-4-logo.svg">
     <img width="7%" align="center" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
     <img width="4.3%" align="center" src="https://www.svgrepo.com/show/373669/html.svg">
     <img width="4.2%" align="center" src="https://www.svgrepo.com/show/373535/css.svg">
@@ -62,9 +62,9 @@
 **<h2>🧰 Technologies</h2>**
 
 <p align="left">
-    <img width="4%" align="center" src="https://www.svgrepo.com/show/452129/vs-code.svg">
-    <img width="3.4%" align="center" src="https://seeklogo.com/images/N/netbeans-logo-335EBA952E-seeklogo.com.png">
-    <img width="4%" align="center" src="https://www.svgrepo.com/show/452210/git.svg">
+    <img width="4.4%" align="center" src="https://www.svgrepo.com/show/452129/vs-code.svg">
+    <img width="3.5%" align="center" src="https://seeklogo.com/images/N/netbeans-logo-335EBA952E-seeklogo.com.png">
+    <img width="4.4%" align="center" src="https://www.svgrepo.com/show/452210/git.svg">
     <img width="4%" align="center" src="https://www.svgrepo.com/show/512317/github-142.svg">
     <img width="4%" align="center" src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png">
     <img width="4%" align="center" src="https://www.svgrepo.com/show/353733/figma.svg">
