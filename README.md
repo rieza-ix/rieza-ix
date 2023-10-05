@@ -1,14 +1,14 @@
-<p align="center">
+<p>
     <h1 align="center">Hi 👋, I'm Rieza Marie J. Banquillo
-    <img src="https://komarev.com/ghpvc/?username=rieza-ix&label=visits&color=0e75b6&style=for-the-badge&color=blueviolet" alt="rieza-ix" />
+    <img src="https://komarev.com/ghpvc/?username=rieza-ix&label=profile_visits&color=0e75b6&style=for-the-badge&color=blueviolet" alt="rieza-ix" />
     </h1>
 </p>
 
-<p align="center">
-    <img width="60%" display="block" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWYzNWQ4MWNiNDI1OTFlNzcwMjI3ZGNhZGM2YWVjYTFkOGEwYTdjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif">
-</p>
-
 <h2 align="center">Aspiring Software Developer</h2>
+
+<p align="center">
+    <img display="block" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWYzNWQ4MWNiNDI1OTFlNzcwMjI3ZGNhZGM2YWVjYTFkOGEwYTdjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif">
+</p>
 
 **<h2>📩 Reach me through ⬇</h2>**
 
