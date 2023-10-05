@@ -1,6 +1,6 @@
 <p>
     <h1 align="center">Hi 👋, I'm Rieza Marie J. Banquillo
-    <img src="https://komarev.com/ghpvc/?username=rieza-ix&label=profile_visits&color=0e75b6&style=for-the-badge&color=blueviolet" alt="rieza-ix" />
+    <img width="25%" src="https://komarev.com/ghpvc/?username=rieza-ix&label=profile_visits&color=0e75b6&style=for-the-badge&color=blueviolet" alt="rieza-ix" />
     </h1>
 </p>
 
