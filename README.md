@@ -4,7 +4,7 @@
     </h1>
 </p>
 
-<h1 align="center">Aspiring Software Developer</h1>
+<h1 align="center">----- Aspiring Software Developer -----</h1>
 
 <p align="center">
     <img width="60%" display="block" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWYzNWQ4MWNiNDI1OTFlNzcwMjI3ZGNhZGM2YWVjYTFkOGEwYTdjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif">
