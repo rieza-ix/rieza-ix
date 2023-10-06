@@ -4,21 +4,21 @@
     </h1>
 </p>
 
-<p align="center">
-    <img width="100%" display="block" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWYzNWQ4MWNiNDI1OTFlNzcwMjI3ZGNhZGM2YWVjYTFkOGEwYTdjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif">
-</p>
-
 <h2 align="center">Aspiring Software Developer</h2>
+
+<p align="center">
+    <img width="80%" display="block" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWYzNWQ4MWNiNDI1OTFlNzcwMjI3ZGNhZGM2YWVjYTFkOGEwYTdjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif">
+</p>
 
 **<h2>📩 Contacts</h2>**
 
 <p align="center">
     <h3>
-        <img width="3%" style="vertical-align:bottom" src="https://freelogopng.com/images/all_img/1656994981linkedin-icon-png.png">
+        <img width="2%" style="vertical-align:bottom" src="https://freelogopng.com/images/all_img/1656994981linkedin-icon-png.png">
         <a style="vertical-align:top" href="https://www.linkedin.com/in/riezamarie-banquillo/" target="_blank">riezamarie-banquillo</a>
     </h3>
     <h3>
-        <img width="3%" style="vertical-align:sub" src="https://www.svgrepo.com/show/353812/google-gmail.svg">
+        <img width="2%" style="vertical-align:sub" src="https://www.svgrepo.com/show/353812/google-gmail.svg">
         <a style="vertical-align:top" href="mailto:rizmarezlo@gmail.com" target="_blank">rizmarezlo@gmail.com</a>
     </h3>
 </p>
@@ -30,16 +30,16 @@
 <p align="left">
     <h3>Scheduling System for Part-time Trainers
         <a href="https://github.com/Stacktrek-Training/stack-sched" target="_blank">
-            <img style="margin: 2.6% 0 0 1%; vertical-align:sub" src="https://badgen.net/badge/status/ongoing/yellow" />
+            <img style="margin: 2.6% 0 0 1%; vertical-align:sub" src="https://badgen.net/badge/status/ongoing/red" />
         </a>
     </h3>
     <h3>ANS Library Management System
         <a margin-top="50%" href="https://github.com/rieza-ix/library-management-system" target="_blank">
-        <img style="margin: 2.6% 0 0 1%; vertical-align:sub" src="https://badgen.net/badge/status/finished/green" /></a>
+        <img style="margin: 2.6% 0 0 1%; vertical-align:sub" src="https://badgen.net/badge/status/finished/blue" /></a>
     </h3>
     <h3>Appointment System
         <a margin-top="50%" href="https://github.com/rieza-ix/java-appointment-system" target="_blank">
-        <img style="margin: 2.6% 0 0 1%; vertical-align:sub" src="https://badgen.net/badge/status/finished/green" /></a>
+        <img style="margin: 2.6% 0 0 1%; vertical-align:sub" src="https://badgen.net/badge/status/finished/blue" /></a>
     </h3>
 </p>
 
