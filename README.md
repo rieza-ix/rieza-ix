@@ -32,11 +32,11 @@
         <h3>Scheduling System for Part-time Trainers
         <img style="margin: 2.6% 0 0 1%; vertical-align:sub" src="https://badgen.net/badge/status/ongoing/red" /></h3>
     </a>
-    <a margin-top="50%" href="https://github.com/rieza-ix/library-management-system" target="_blank">
+    <a href="https://github.com/rieza-ix/library-management-system" target="_blank">
         <h3>ANS Library Management System
         <img style="margin: 2.6% 0 0 1%; vertical-align:sub" src="https://badgen.net/badge/status/finished/blue" /></h3>
     </a>
-    <a margin-top="50%" href="https://github.com/rieza-ix/java-appointment-system" target="_blank">
+    <a href="https://github.com/rieza-ix/java-appointment-system" target="_blank">
         <h3>Appointment System
         <img style="margin: 2.6% 0 0 1%; vertical-align:sub" src="https://badgen.net/badge/status/finished/blue" /></h3>
     </a>
