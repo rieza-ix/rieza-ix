@@ -28,9 +28,10 @@
 **<h2>📁 Projects</h2>**
 
 <p align="left">
-    <a style="font-size:18px" href="https://github.com/Stacktrek-Training/stack-sched" target="_blank">    
-        Scheduling System for Part-time Trainers
+    <h3>
+        <a href="https://github.com/Stacktrek-Training/stack-sched" target="_blank">Scheduling System for Part-time Trainers
         <img style="margin: 2.6% 0 0 1%; vertical-align:sub" src="https://badgen.net/badge/status/ongoing/red" />
+    </h3>
     </a>
     <a href="https://github.com/rieza-ix/library-management-system" target="_blank">
         <h3>ANS Library Management System
