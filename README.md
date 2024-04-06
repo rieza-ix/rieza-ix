@@ -1,5 +1,5 @@
 <p align="right" >
-    <img width = "30%" src="https://komarev.com/ghpvc/?username=rieza-ix&label=profile_visits&color=0e75b6&style=for-the-badge&color=blueviolet" alt="rieza-ix" />
+    <img width = "25%" src="https://komarev.com/ghpvc/?username=rieza-ix&label=profile_visits&color=0e75b6&style=for-the-badge&color=blueviolet" alt="rieza-ix" />
 </p>
 
 <p align="center">Hello world, I'm 🙋🏻‍♀️</p>
@@ -54,6 +54,6 @@
 <p display="flex" align="center">
     <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=rieza-ix&theme=jolly&show_icons=true" />
     <img align="center" width="49%" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rieza-ix&theme=jolly" />
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rieza-ix&layout=compact&theme=jolly" />
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rieza-ix&theme=jolly" />
+    <img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rieza-ix&layout=compact&theme=jolly" />
+    <img align="center" width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rieza-ix&theme=jolly" />
 </p>
