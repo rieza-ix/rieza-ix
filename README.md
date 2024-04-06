@@ -4,7 +4,7 @@
 
 <p align="center">Hello world, I'm 🙋🏻‍♀️</p>
 
-**<h2 align="center">RIEZA MARIE BANQUILLO</h2>**
+**<h1 align="center">RIEZA BANQUILLO</h1>**
 
 **<h2>📩 Contact Me</h2>**
 
